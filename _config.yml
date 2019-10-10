@@ -5,3 +5,5 @@ google_analytics:
 sc_project:
 sc_security:
 theme: jekyll-theme-slateb
+plugins:
+  - jekyll-seo-tag
