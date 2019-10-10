@@ -58,7 +58,8 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-	
+	  
+    {% if site.sc_project %}
 	<script type="text/javascript">
 	var sc_project={{site.sc_project}}; 
 	var sc_invisible=1; 
@@ -71,6 +72,7 @@
 	class="statcounter"
 	src="https://c.statcounter.com/{{site.sc_project}}/0/{{site.sc_security}}/1/"
 	alt="site stats"></a></div></noscript>
+{% endif %}
 	
   </body>
 </html>
