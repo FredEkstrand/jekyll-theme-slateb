@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.license       = 'CC0-1.0'
   s.authors       = ['Fred Ekstrand']
   s.email         = ['fredekstrandgithub@gmail.com']
-  s.homepage      = 'https://github.com/FredEkstrand/fredekstrand.github.io/tree/master/slateb/'
+  s.homepage      = 'https://github.com/FredEkstrand/jekyll-theme-slateb'
   s.summary       = 'A simple extension of the slate theme to allow for statcounter tracking.'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
