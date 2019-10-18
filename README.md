@@ -34,7 +34,7 @@ Additionally, you may choose to set the following optional variables:
 ```yml
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
-sc_project: [Yor Statcounter project ID]            // Can find in your Statcounter default code.
+sc_project: [Your Statcounter project ID]            // Can find in your Statcounter default code.
 sc_security: [Your Statcounter project security ID] // Can find in your Statcounter default code.
 ```
 
